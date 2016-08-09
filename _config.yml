@@ -8,5 +8,4 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
-  # sass_dir: ./_scss
 # permalink: none
