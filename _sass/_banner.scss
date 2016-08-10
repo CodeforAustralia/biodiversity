@@ -1,0 +1,30 @@
+.banner {
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+}
+	.banner img {
+		// width: auto;
+	}
+
+	.banner .logo {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		max-height: 136px;
+	}
+
+	.banner nav {
+		background-color: white;
+	}
+
+	.banner ul {
+		display: flex;
+		flex-direction: row;
+		list-style: none;
+		justify-content: center;
+	}
+
+		.banner ul li {
+			margin: 1rem;
+		}	
