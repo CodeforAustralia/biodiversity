@@ -1,0 +1,10 @@
+.post-list li{
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+	justify-content: space-between;
+}
+
+.post-meta {
+  margin-left: auto;
+}
