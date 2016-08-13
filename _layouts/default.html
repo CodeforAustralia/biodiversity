@@ -12,15 +12,15 @@
 <body>
   <div class="banner">
       <div class="logo">
-        <img class="logo" id="PVlogo" src="{{ site.url }}/assets/PV_logo.svg" alt="parks victoria logo">
-        <img class="logo" id="CFAlogo" src="{{ site.url }}/assets/CFA_logo.svg" alt="Code for Australia logo">
-        <img class="logo" id="DELWPlogo" src="{{ site.url }}/assets/DELWP.png" alt="DELWP logo">
+        <img class="logo" id="PVlogo" src="{{ site.github.url }}/assets/PV_logo.svg" alt="parks victoria logo">
+        <img class="logo" id="CFAlogo" src="{{ site.github.url }}/assets/CFA_logo.svg" alt="Code for Australia logo">
+        <img class="logo" id="DELWPlogo" src="{{ site.github.url }}/assets/DELWP.png" alt="DELWP logo">
       </div>
     <nav>
         <ul>
-          <li><a href="blog.html">blog</a></li>
-          <li><a href="/#the-challenge">challenge</a></li>
-          <li><a href="/#the-team">team</a></li>
+          <li><a href="{{ site.github.url }}/blog.html">blog</a></li>
+          <li><a href="{{ site.github.url || site.url }}#the-challenge">challenge</a></li>
+          <li><a href="{{ site.github.url }}#the-team">team</a></li>
         </ul>
     </nav>
   </div>
