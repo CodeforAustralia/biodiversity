@@ -17,7 +17,7 @@ Find the best solution to develop an online/offline sollution to optimise biodiv
 
 Get australia observing biodivertisty to know and love it.
 
-![biodiversity plan](../assets/Project-Biodiversity_Plan.svg)
+![biodiversity plan]({{ site.github.url }}/assets/Project-Biodiversity_Plan.svg)
 
 
 ## The team
