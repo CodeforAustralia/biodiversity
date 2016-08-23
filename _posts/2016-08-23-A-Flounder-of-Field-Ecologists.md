@@ -9,7 +9,7 @@ tags: firstday, happy
 We had our first user research session in Bairnsdale, 16th of Aug 2016. During part of the session we asked participants to describe a data collection process they go through.
 The processes are described in this [trello board](https://trello.com/b/G9BBSMcZ/bairnsdale-gippsland-region-users-workshop) with other raw results from the day.
 
-[![trello](/assets/trello.png)](https://trello.com/b/G9BBSMcZ/bairnsdale-gippsland-region-users-workshop)
+[![trello]({{ site.github.url }}/assets/trello.png)](https://trello.com/b/G9BBSMcZ/bairnsdale-gippsland-region-users-workshopA-Flounder-of-Field-Ecologists)
 
 
 Johan Started. He gave a very melbourne example :
