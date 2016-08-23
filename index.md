@@ -17,13 +17,13 @@ Find the best solution to develop an online/offline sollution to optimise biodiv
 
 Get australia observing biodivertisty to know and love it.
 
-![biodiversity plan]({{ site.github.url }}/assets/Project-Biodiversity_Plan.svg)
+![biodiversity plan]({{ site.baseurl }}/assets/Project-Biodiversity_Plan.svg)
 
 
 ## The team
 
 *   ### Frederick Michna, Graphic and UX Designer
-    ![Frederick Michna]({{ site.github.url }}/assets/FredBioPic.jpeg)
+    ![Frederick Michna]({{ site.baseurl }}/assets/FredBioPic.jpeg)
     Frederick Douglas Michna has been trained in community informatics, human geography, ecology, immunology, digital cartography, and qualitative methods.
 
 <!-- Understanding customer requirements
@@ -33,7 +33,7 @@ Keeping team on track -->
 
 
 *   ### Veronica Farias, Back-end Developer and UX Designer
-    ![Veronica Farias]({{ site.github.url }}/assets/VeroBioPic.png)
+    ![Veronica Farias]({{ site.baseurl }}/assets/VeroBioPic.png)
     Veronica is a computer scientist with over fourteen years of experience in the information technology field. She has been involved in a wide range of projects in sectors such as education, private, volunteerism and governmental.
 
 <!-- Architecture and system design
@@ -45,7 +45,7 @@ Keeping team on track -->
 
 
 *   ### Johan Codinha, Front-end Developer and UX Designer
-    ![Johan Codinha]({{ site.github.url }}/assets/JoBioPic.jpg)
+    ![Johan Codinha]({{ site.baseurl }}/assets/JoBioPic.jpg)
     Johan is passionate about making things. After months of self-learning and a 12-week immersive coding bootcamp , Johan's ready to tackle public service challenges!
 
 <!-- * Front-end sofware development

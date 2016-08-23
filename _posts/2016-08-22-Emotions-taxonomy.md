@@ -25,7 +25,7 @@ You can have your say here…
 Afterwards we compiled a folk taxonomy to understand what emotions are dominating. Folk taxonomies are interpretive visualisations that describe variation in the use of language. The emotions of madness and sadness dominated the start of the meeting, represented by red and blue. Indeed, one could be forgiven for seeing a little of the beginning of the coming of age story from pixar reflected in this image.
 
 
-![emotionsTaxonomy]({{ site.github.url }}/assets/emotionsTaxonomy.png)
+![emotionsTaxonomy]({{ site.baseurl }}/assets/emotionsTaxonomy.png)
 
 
 The coming of age narrative doesn’t only describe why madness and sadness are so prevalent, it also informs how we might approach the issue.  There are many different systems, with various uses to different people. They have been in limbo for decades. We don’t need to fix one confusing form, we need to help the information systems to ‘grow up’.
