@@ -11,7 +11,9 @@
 		display: flex;
 		flex-direction: row;
 		justify-content: space-around;
-		max-height: 136px;
+		max-height: 110px;
+		padding-top: .3rem;
+    padding-bottom: .3rem;
 	}
 
 	.banner nav {
