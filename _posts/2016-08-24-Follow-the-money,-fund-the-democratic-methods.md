@@ -39,15 +39,4 @@ I talked to one of the volunteers who took me to tourism brochures, which I coll
 
 These are all sources of income, but they aren’t necessarily citizen participation at a higher, policy levels. What is the democratic worth of the tourist? Many are non-citizens of Australia, but their insights and values are important parts of the deliberative spaces in australian environmental movements. 
 
-<!-- 
-|---
-| Rung of Participation | Aims for Biodiversity Governance in tourism context | Possible Functions of a Directory
-|-|-|-
-| Manipulation | b | c
-| | b | c
-|---  -->
-
-
-Direct action is not just the preserve of environmentalists. There is a lot of work to be done into the future to enable and empower tourists as citizen scientists. There is also a lot of work to be done to enable other groups with a bigger personal stake. Tourists may be able to pay in ways that are useful. Many of us are tourists at some point.
-
 Written by [Fred]({{ site.baseurl }}/#frederick-michna-graphic-and-ux-designer).
