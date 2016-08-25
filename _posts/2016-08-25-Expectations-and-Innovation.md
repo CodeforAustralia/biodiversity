@@ -6,7 +6,7 @@ tags: firstday, happy
 
 ## Expectations and Innovation.
 
-![Melbourne skyline]({{ site.baseurl }}/assets/sunset.jpg)
+![Melbourne skyline]({{ site.baseurl }}/assets/sunSet.jpg)
 
 We are now about three weeks into the project. The stakeholders we have meet so far have different expectations about the deliverables of the project.
 To recap, we are in the middle of a joint fellowship placement between DELWP (Department of Environment, Land, Water and Planning) and Parks Victoria. Both departments are running biodiversity databases, [Sea Search](http://parkweb.vic.gov.au/get-involved/volunteer/sea-search) for Park Vic and [Victorian Biodiversity Atlas](http://www.depi.vic.gov.au/environment-and-wildlife/biodiversity/victorian-biodiversity-atlas) for DELWP.
