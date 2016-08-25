@@ -18,3 +18,4 @@ Most of the ideas pitched by our government stakeholders would have required a m
 
 To conclude, we aim at finding a wide range of potential solutions that could be fully implemented once our fellowship is over. We will not make assumptions, we are currently meeting with our broad range of users, we will build prototypes and get them to test it. We will all learn from this experience and share this knowledge. After a wide range of prototypes are made and tested, then future project specifications may be created that address well defined problems.
 
+Written by [Johan]({{ site.baseurl }}/#johan-codinha-front-end-developer-and-ux-designer).
