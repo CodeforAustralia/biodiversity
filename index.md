@@ -22,7 +22,10 @@ Get australia observing biodivertisty to know and love it.
 
 ## The team
 
-*   ### Frederick Michna, Graphic and UX Designer
+*   ### Frederick Michna
+    Graphic and UX Designer
+    {: .job-title}
+
     ![Frederick Michna]({{ site.baseurl }}/assets/FredBioPic.jpeg)
     Frederick Douglas Michna has been trained in community informatics, human geography, ecology, immunology, digital cartography, and qualitative methods.
 
@@ -32,7 +35,10 @@ Matching client expectations and deliverables with to requirements
 Keeping team on track -->
 
 
-*   ### Veronica Farias, Back-end Developer and UX Designer
+*   ### Veronica Farias
+    Back-end Developer and UX Designer 
+    {: .job-title}
+
     ![Veronica Farias]({{ site.baseurl }}/assets/VeroBioPic.png)
     Veronica is a computer scientist with over fourteen years of experience in the information technology field. She has been involved in a wide range of projects in sectors such as education, private, volunteerism and governmental.
 
@@ -44,7 +50,10 @@ Matching client expectations and deliverables with to requirements
 Keeping team on track -->
 
 
-*   ### Johan Codinha, Front-end Developer and UX Designer
+*   ### Johan Codinha
+    Front-end Developer and UX Designer
+    {: .job-title}
+
     ![Johan Codinha]({{ site.baseurl }}/assets/JoBioPic.jpg)
     Johan is passionate about making things. After months of self-learning and a 12-week immersive coding bootcamp , Johan's ready to tackle public service challenges!
 
