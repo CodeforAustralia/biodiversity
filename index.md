@@ -23,7 +23,7 @@ Get australia observing biodivertisty to know and love it.
 ## The team
 
 *   ### Frederick Michna
-    Graphic and UX Designer
+    Spatial and Participatory Systems, User Research
     {: .job-title}
 
     ![Frederick Michna]({{ site.baseurl }}/assets/FredBioPic.jpeg)
