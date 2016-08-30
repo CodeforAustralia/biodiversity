@@ -20,7 +20,7 @@ This is an apt metaphor. Although ‘open science’ may have defenders in state
 *   Using web-based tools to facilitate scientific collaboration.”
 
 ### Dastardly Science Inc v The Public Interest
-What constitutes acceptable transparency of methodology, observation and collection in population monitoring? If we don’t also think about the way that a technology could be used to harm others we have failed to be diligent in our thinking. Lets’ use a hypothetical example.
+Lets’ use a hypothetical example to investigate how open science applies to public field ecology.
 
 Dastardly Science Inc. is contracted to see if a population of a bird, Extremelyum Endangeredus would survive the construction of a death ray.  Lisa, the mad scientist who hired Dastardly Science Inc., will preferentially hire the company that is the most clever at getting developments through despite environmental concerns.
 
