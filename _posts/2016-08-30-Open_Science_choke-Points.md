@@ -49,7 +49,9 @@ The answer to this may be pre-registration of hypotheses that are interrogated o
 
 ![Nicolas Cage and Sunlight in Georgia correlation is 31%]({{ site.baseurl }}/assets/nicolasCageChart.png)
 
-Raw audio files from bird call survey methods, pictures sent immediately that they are taken to an independent database, and independent citizen scientist observers must be included to make such a process transparent.Transparency in observation and collection in field ecology means seeing who, what, when, where and why observations were collected. Dastardly Science Inc consultants could, for instance, walk around the property and ignore that they saw any birds. They could pretend they lost their field notes. They could put cotton in their ears. The could outright lie. Without transparency and accountability in the observation and collection practice, we simply have to trust a company with dastardly in its name! In this case the evidence of absence is insufficient.
+Dastardly Science Inc consultants could, for instance, walk around the property and ignore that they saw any birds. They could pretend they lost their field notes. They could put cotton in their ears. The could outright lie. Without transparency and accountability in the observation and collection practice, we simply have to trust a company with dastardly in its name! In this case the evidence of absence is insufficient.
+
+Raw audio files from bird call survey methods, pictures sent immediately that they are taken to an independent database, and independent citizen scientist observers must be included to make such a process transparent.Transparency in observation and collection in field ecology means seeing who, what, when, where and why observations were collected.
 
 ![The three wise monkeys know how to be a compliant environmental consultant. Monkey see no evil, monkey hear no evil, monkey speak no evil.]({{ site.baseurl }}/assets/monkey.gif)
 *The three wise monkeys know how to be a compliant environmental consultant. Monkey see no evil, monkey hear no evil, monkey speak no evil.*
