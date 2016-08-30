@@ -8,3 +8,20 @@
 .post-meta {
   margin-left: auto;
 }
+.post-link {
+	max-width: 20rem;
+}
+
+img + em {
+	color: darkgray;
+}
+
+// img+em::before {
+//     content: "";
+//     background-color: darkgray;
+//     position: absolute;
+//     height: 3rem;
+//     width: 0.1rem;
+//     margin-left: -.5rem;
+//     margin-top: .3rem;
+// }
