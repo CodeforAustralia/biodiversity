@@ -9,7 +9,7 @@ We believes that *user centered design* and *agile development* processes can he
 
 ## The Challenge
 
-**TL;DR** Optimise biodiversity data collection by citizens and experts.
+#### Optimise biodiversity data collection by citizens and experts.
 
 DELWP, Parks Victoria and other agencies maintain multiple biodiversity databases, including the comprehensive [Victorian Biodiversity Atlas](https://vba.dse.vic.gov.au/vba/#/), DELWP’s database of flora and fauna in Victoria. 
 A key goal of biodiversity plan is to encourage more Victorians (scientists, ecologists, citizen scientists and natural resource managers) to value nature, in order to ensure that people recognise the importance of a healthy natural environment to personal and economic well being.
