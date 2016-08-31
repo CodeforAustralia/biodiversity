@@ -30,3 +30,72 @@
 		.banner ul li {
 			margin: 1rem;
 		}	
+
+
+// Newsletter
+
+.newsletter {
+	// display: flex;
+	border: #e7eef2 1px solid;
+  padding: 3rem;
+  margin-top: 3rem;
+  text-align: center;
+  background: #f5f8fa;
+  border-radius: 5px;
+}
+
+#mc_embed_signup {
+	display: flex;
+	justify-content: center;
+}
+
+#mc_embed_signup_scroll {
+	display: flex;
+	flex-direction: row;
+}
+
+#mce-EMAIL {
+	
+	-webkit-appearance: none;
+  appearance: none;
+	margin: 0;
+	border-radius: 4px 0 0 4px;
+	border: #e7eef2 1px solid;
+	height: 2rem;
+  padding: 6px 9px;
+}
+
+#mc-embedded-subscribe {
+	border-radius: 0 4px 4px 0;
+	margin-left: -1px;
+  height: 2.7rem;
+  width: auto;
+  display: inline-block;
+  padding: 0.1rem 1.5rem;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-shadow: none;
+  // border-radius: 0.3rem;
+  border: rgba(0,0,0,0.05) 0.1em solid;
+  background: #5ba4e5;
+}
+
+.newsletter > p {
+	font-size: 2rem;
+	font-family: "Open Sans", sans-serif;
+}
+
+
+
+
+
+
