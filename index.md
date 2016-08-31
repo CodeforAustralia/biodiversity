@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-## Who are we ? 
+## What is Code for Australia ? 
+
 We are a community of urbanists, tech experts, designers and community organisers who want to help Australian governments innovate by leveraging a community of passionate and skilled contributors.
-Code for Australia is a non-profit organization who works with government to develop tech-based solutions to solve civic-problems. Code for Australia believes that user centered design and agile development processes can help government better drive collaboration and transparency, accelerate economic growth, and reanimate citizenship. We're here to help!
+Code for Australia is a non-profit organization who works with government to develop tech-based solutions to solve civic-problems. We believes that user centered design and agile development processes can help government better drive collaboration and transparency, accelerate economic growth, and reanimate citizenship. *We're here to help!*
 
 ## The Challenge
 
@@ -11,17 +12,23 @@ DELWP, Parks Victoria and other agencies maintain multiple biodiversity database
 A key goal of biodiversity plan is to encourage more Victorians (scientists, ecologists, citizen scientists and natural resource managers) to value nature, in order to ensure that people recognise the importance of a healthy natural environment to personal and economic well being.
 At the present they have different tools or/and methodologies to collect information, as filling a paper form or introducing it directly to a database by an expert on different systems. They have identified these processes as their main issue to solve with unique online/offline application that allow them reduces errors during data collection process, get better quality of data and in this way make better decision than the present.
 
-### How
+## How
 
-Find the best solution to develop an online/offline sollution to optimise biodiversity observation data collection by citizens and experts.
-
-Get australia observing biodivertisty to know and love it.
-
-![biodiversity plan]({{ site.baseurl }}/assets/Project-Biodiversity_Plan.svg)
+1. Start With Scratch
+2. Build Prototypes
+3. Evolve the Product
 
 
-## The team
+![biodiversity plan]({{ site.baseurl }}/assets/spotify-mvp-1.png)
 
+Find the best solution to develop an offline first sollution to optimise biodiversity observation data collection by citizens and experts.
+You can read more about the process [here](https://codeforaustralia.github.io/biodiversity/2016/08/25/Expectations-and-Innovation.html).
+
+
+
+
+## Who are we ?
+{: #the-team}
 *   ### Frederick Michna
     Spatial and Participatory Systems, User Research
     {: .job-title}
