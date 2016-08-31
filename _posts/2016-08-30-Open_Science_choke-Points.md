@@ -20,7 +20,7 @@ This is an apt metaphor. Although ‘open science’ may have defenders in state
 *   Using web-based tools to facilitate scientific collaboration.”
 
 ### Dastardly Science Inc v The Public Interest
-What constitutes acceptable transparency of methodology, observation and collection in population monitoring? If we don’t also think about the way that a technology could be used to harm others we have failed to be diligent in our thinking. Lets’ use a hypothetical example.
+Lets’ use a hypothetical example to investigate how open science applies to public field ecology.
 
 Dastardly Science Inc. is contracted to see if a population of a bird, Extremelyum Endangeredus would survive the construction of a death ray.  Lisa, the mad scientist who hired Dastardly Science Inc., will preferentially hire the company that is the most clever at getting developments through despite environmental concerns.
 
@@ -49,7 +49,9 @@ The answer to this may be pre-registration of hypotheses that are interrogated o
 
 ![Nicolas Cage and Sunlight in Georgia correlation is 31%]({{ site.baseurl }}/assets/nicolasCageChart.png)
 
-Raw audio files from bird call survey methods, pictures sent immediately that they are taken to an independent database, and independent citizen scientist observers must be included to make such a process transparent.Transparency in observation and collection in field ecology means seeing who, what, when, where and why observations were collected. Dastardly Science Inc consultants could, for instance, walk around the property and ignore that they saw any birds. They could pretend they lost their field notes. They could put cotton in their ears. The could outright lie. Without transparency and accountability in the observation and collection practice, we simply have to trust a company with dastardly in its name! In this case the evidence of absence is insufficient.
+Dastardly Science Inc consultants could, for instance, walk around the property and ignore that they saw any birds. They could pretend they lost their field notes. They could put cotton in their ears. The could outright lie. Without transparency and accountability in the observation and collection practice, we simply have to trust a company with dastardly in its name! In this case the evidence of absence is insufficient.
+
+Raw audio files from bird call survey methods, pictures sent immediately that they are taken to an independent database, and independent citizen scientist observers must be included to make such a process transparent.Transparency in observation and collection in field ecology means seeing who, what, when, where and why observations were collected.
 
 ![The three wise monkeys know how to be a compliant environmental consultant. Monkey see no evil, monkey hear no evil, monkey speak no evil.]({{ site.baseurl }}/assets/monkey.gif)
 *The three wise monkeys know how to be a compliant environmental consultant. Monkey see no evil, monkey hear no evil, monkey speak no evil.*
