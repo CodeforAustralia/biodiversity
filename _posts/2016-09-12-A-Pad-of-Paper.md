@@ -18,8 +18,8 @@ Even Danny in the comfort of his 4wd used a field book for note taking.  Yes, Da
 
 Maybe a mobile application could augment the capacity of a paper form instead of replacing it.
 
-### Barcode
-![The barcode is a digital augmentation of paper]({{ site.baseurl }}/assets/Barcode_EAN8.svg/800px-Barcode_EAN8.svg.png)
+### Barcode 
+![The barcode is a digital augmentation of paper](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Barcode_EAN8.svg/800px-Barcode_EAN8.svg.png)
 *The barcode is a digital augmentation of paper used to identify it and the thing it is placed on*
 
  “A time without barcodes is hard to imagine now. But it wasn’t that long ago... It starts with an engineer named Joseph Woodland. In 1948 Woodland was trying to come up with simple symbol that, when scanned, would translate to a number that a computer could use to identify a product.” [Mingle, K Barcodes, Ep. 108,  99% invisible, 04.01.14.](http://99percentinvisible.org/episode/barcodes/)
@@ -53,7 +53,7 @@ The checkout bleep and display screen is an example of such a feedback mechanism
   <source src="{{ site.baseurl }}/assets/audio/barcodescan.mp3" type="audio/mp3">
 </audio>
 
-![Mechanical Cash Register Display]({{ site.baseurl }}/assets/ Cash_register,_built_1904_in_Ohiosmall.jpg)
+![Mechanical Cash Register Display]({{ site.baseurl }}/assets/Cash_register,_built_1904_in_Ohiosmall.jpg)
 
 At the very least the feedback on a notebook would show the project, site, survey, method and observer information that is encoded in the barcode. This shows the ecologist that they have scanned the right page. Feedback may also show the ecologist a rank table of observation effort to encourage effort through social comparison, give an immediate reward for submitting data, or show progression towards the completion of the larger project goal. 
 
