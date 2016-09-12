@@ -38,8 +38,6 @@ There are two possible ways this could go, the mobile device may deliver content
 ### Stencils
 There is a compromise between flexibility and structure in the design of a notebook. A blank page could have an infinite variety of tables and boxes and shapes drawn on it, but human variation in the design of these elements is difficult for image recognition to compute. The stencil lies somewhere in between rigid structure and blank chaos. It may augment the paper when it is necessary and be removed when it is not. 
 
-
-
 ### Content Collection
 A photograph of the notepad is stored on the mobile device. It scans the barcode so that the project, site, survey, method, and observer are linked to these observations. The handwriting is run through an [optical character recognition process](https://en.wikipedia.org/wiki/Optical_character_recognition) so that text can be digitally stored, searched, and analysed.  The device may also store location, time, and estimate observation effort metrics automatically if the ecologist is able to bring it into the field. If the ecologist can’t use an electronic device at the time, for aforementioned reasons, they only need to take a photograph and eventually get into a wifi or mobile connection to enter it.
 
@@ -47,13 +45,13 @@ A photograph of the notepad is stored on the mobile device. It scans the barcode
 
 Scanning a barcode is also an opportunity for feedback from a system to the field ecologist.
 
-The checkout bleep and display screen is an example of such a feedback mechanism
 <audio controls="controls" preload="metadata">
   Your browser does not support the <code>audio</code> element.
   <source src="{{ site.baseurl }}/assets/audio/barcodescan.mp3" type="audio/mp3">
 </audio>
 
 ![Mechanical Cash Register Display]({{ site.baseurl }}/assets/Cash_register,_built_1904_in_Ohiosmall.jpg)
+*The checkout bleep and display screen presented to shopping customers is an example of a feedback mechanism*
 
 At the very least the feedback on a notebook would show the project, site, survey, method and observer information that is encoded in the barcode. This shows the ecologist that they have scanned the right page. Feedback may also show the ecologist a rank table of observation effort to encourage effort through social comparison, give an immediate reward for submitting data, or show progression towards the completion of the larger project goal. 
 
