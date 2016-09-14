@@ -17,6 +17,6 @@ Therefore, one of the first steps that we have done it is the creation of a stan
 *    Facilitation of national or/and international exchange of information or services.
 
 
-By mapping out standard specification and turning them into a web page or a document, DELWP can achieve for instance: a solid base on which to make some improvements in the process of collecting biodiversity data and a working manual that should be updated when further changes are made. If the standards are followed, increased productivity, improved quality and reduced costs and resources also can be expected.
+By mapping out standard specifications and turning them into a web page or a document, DELWP can achieve for instance: a solid base on which to make some improvements in the process of collecting biodiversity data and a working manual that should be updated when further changes are made. If the standards are followed, increased productivity, improved quality and reduced costs and resources also can be expected.
 
 All these characteristics have direct benefits to improve the way things are being done in the present. Principally if we are talking about sharing and collecting data to encourage more Victorians (scientists, ecologists, citizen scientists and natural resource managers) to value nature and  contribute in a common and standard language in the near future, which is the main objective to achieve in this project.
