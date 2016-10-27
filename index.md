@@ -33,19 +33,6 @@ You can read more about the process [here](https://codeforaustralia.github.io/bi
 
 ## Who are we ?
 {: #the-team}
-*   ### Frederick Michna
-    {: .job-title}
-    ![Frederick Michna]({{ site.baseurl }}/assets/FredBioPic.jpeg)
-    *Spatial and Participatory Systems, User Research*
-
-    Frederick Douglas Michna has been trained in community informatics, human geography, ecology, immunology, digital cartography, and qualitative methods.
-
-<!-- Understanding customer requirements
-Fostering shared understanding of customer requirements
-Matching client expectations and deliverables with to requirements
-Keeping team on track -->
-
-
 *   ### Veronica Farias 
     {: .job-title}
 
